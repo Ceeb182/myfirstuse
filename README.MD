@@ -17,7 +17,7 @@
 >FrSky est informé de toute nouvelle parution de documents sur ce dépos.  
 >Pour faciliter le contrôle par FrSky :  
 >- l'arborescence des dossiers est volontairement en Anglais  
->- tous les fichiers Readme.md possède une section en Anglais  
+>- tous les fichiers Readme.md possèdent une section en Anglais  
 >- toutes les notes de versions comportent une section en Anglais  
 
 # ![Flag FR>](_media/Flag_FR.png "Français") De la documentation FrSky en Français ! 
